@@ -25,14 +25,10 @@ You can see my master cryptography source code <a href="https://github.com/coppe
 <img src="https://img.shields.io/badge/-Shell-7F00FF?style=for-the-badge&logo=gnu-bash"/>
 <!--END_SECTION:colourise-->
 
-<details>
-<summary> <b>📊 Some GitHub stats </b></summary>
-<p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=copperhead13&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copperhead13&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
-</p>
-</details>
-
+> 📱 Devices that i use:
+	>📱 Xiaomi Mi MIX 3 5G
+		>📱 Xiaomi Mi Note 10 Lite
+	
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary>
 
