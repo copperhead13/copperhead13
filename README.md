@@ -1,4 +1,3 @@
-<a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Welcome to Sabau Dragos's Github" width="100%"/></a>
 
 <p align="center">
 <a href="https://github.com/copperhead13/profile-wordcloud">
