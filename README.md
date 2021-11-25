@@ -26,8 +26,11 @@ You can see my master cryptography source code <a href="https://github.com/coppe
 <!--END_SECTION:colourise-->
 
 > 📱 Devices that i use:
+
 	>📱 Xiaomi Mi MIX 3 5G
+	
 		>📱 Xiaomi Mi Note 10 Lite
+		
 	
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary>
