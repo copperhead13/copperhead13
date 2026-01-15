@@ -9,7 +9,7 @@
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
 
-I'm Dragos, a student 🎓 at <a href="http://www.sincaibm.ro/">Gheorghe Sincai National College</a>. Primarily interested in Android Development and Cryptography. 
+I'm Dragos, working at MHP - A Porsche Company as a Data Manager for 911 and 983 🏎️, a student 🎓 at <a href="https://econ.ubbcluj.ro">FSEGA Cluj (Informatica Economica)</a>. Primarily interested in Cars, Android Development and Cryptography. 
 
 You can see my master cryptography source code <a href="https://github.com/copperhead13/CryptoGenie">here</a>.
 
@@ -27,9 +27,9 @@ You can see my master cryptography source code <a href="https://github.com/coppe
 
 > 📱 Devices that i use:
 
-	>📱 Xiaomi Mi MIX 3 5G
+	>📱 Google Pixel 7 Pro
 	
-		>📱 Xiaomi Mi Note 10 Lite
+		>📱 iPhone 16 Pro
 		
 	
 <details>
